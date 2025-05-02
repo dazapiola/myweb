@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Alejandro Zapiola - Portafolio Personal
 
-## Getting Started
+## 👨‍💻 Sobre Mí
+Soy un Software Designer, Architect & Developer con más de 20 años de experiencia en desarrollo frontend, backend y full stack. Me apasiona entender cómo funciona cada aspecto de la tecnología, desde el hardware hasta el software.
 
-First, run the development server:
+### 🚀 Fortalezas
+- Organización y liderazgo técnico
+- Impulso a la innovación
+- Visión y enfoque en arquitectura empresarial
+- Evangelizador de Domain Driven Design
+- Impulsor de las innovaciones tecnológicas
 
+### 💼 Experiencia
+- Consultoría en arquitectura de software
+- Proyectos empresariales a gran escala
+- Solution owner en pre-ventas
+- Planificación y gestión de proyectos
+- 20+ años en desarrollo frontend, backend y full stack
+
+### 🛠️ Stack Tecnológico
+- **Lenguajes**: Python, TypeScript
+- **Frameworks**: React, Node.js, Django, Flask
+- **Herramientas**: GNU/Linux, Cursor, Warp, AI
+
+## 🚀 Cómo Levantar el Proyecto
+
+### Prerrequisitos
+- Node.js (versión 18 o superior)
+- npm o yarn
+- Git
+
+### Instalación
+
+1. Clonar el repositorio:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Instalar dependencias:
+```bash
+npm install
+# o
+yarn install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Configurar variables de entorno:
+```bash
+cp .env.example .env.local
+# Editar .env.local con tus configuraciones
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Iniciar el servidor de desarrollo:
+```bash
+npm run dev
+# o
+yarn dev
+```
 
-## Learn More
+5. Abrir [http://localhost:3000](http://localhost:3000) en tu navegador
 
-To learn more about Next.js, take a look at the following resources:
+### Scripts Disponibles
+- `npm run dev` - Inicia el servidor de desarrollo
+- `npm run build` - Construye la aplicación para producción
+- `npm run start` - Inicia la aplicación en modo producción
+- `npm run lint` - Ejecuta el linter
+- `npm run test` - Ejecuta las pruebas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌐 Características del Proyecto
+- Diseño responsive y moderno
+- Soporte para múltiples idiomas (Español/Inglés)
+- Optimizado para SEO
+- Arquitectura basada en componentes
+- Integración con herramientas de desarrollo modernas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📝 Licencia
+Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
